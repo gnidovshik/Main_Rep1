@@ -6,6 +6,8 @@
 ## 2. Установка **Git**
 
 - Загружаем последнюю версию **Git** с сайта [git-scm.com](https://git-scm.com/downloads).
+
+![download picture](Git_download.png)
 - Устанавливаем с настройками по умолчанию.
 
 ## 3. Настройка **Git**
@@ -15,4 +17,3 @@
 git config --global user.name "Ваше имя"
 git config --global user.email ваша "почта@example.com"
 ```
-
