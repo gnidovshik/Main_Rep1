@@ -7,7 +7,8 @@
 
 - Загружаем последнюю версию **Git** с сайта [git-scm.com](https://git-scm.com/downloads).
 
-![download picture](Git_download.png)
+![pic_download](download.png)
+
 - Устанавливаем с настройками по умолчанию.
 
 ## 3. Настройка **Git**
@@ -17,3 +18,10 @@
 git config --global user.name "Ваше имя"
 git config --global user.email ваша "почта@example.com"
 ```
+## 4. Инициализация репозитория
+
+- В терминале переходим к папке, в которой хотим создать репозиторий.
+- Выполняем команду `git init` 
+- В исоходной папке появится скрытая папка *.git*
+
+
